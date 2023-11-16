@@ -1,0 +1,20 @@
+// Copyright 2023 Jason Hazel (@jasonhazel)
+// SPDX-License-Identifier: GPL-3.0-or-later
+
+#pragma once
+#define VIAL_KEYBOARD_UID {0xD9, 0xF1, 0xE8, 0x48, 0xE8, 0x90, 0x85, 0x46}
+
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 3 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 0 }
+
+// // #define TAPPING_TERM 200
+// #define PERMISSIVE_HOLD
+// #define TAPPING_FORCE_HOLD
+// #define TAPPING_TERM_PER_KEY
+// #define ONESHOT_TAP_TOGGLE 10
+// #define ONESHOT_TIMEOUT 500
+// #define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+// #define CIRQUE_PINNACLE_TAP_ENABLE
+// #define CIRQUE_PINNACLE_POSITION_MODE  CIRQUE_PINNACLE_ABSOLUTE_MODE
+
+// #define POINTING_DEVICE_GESTURES_SCROLL_ENABLE

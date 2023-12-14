@@ -5,18 +5,16 @@
 Low Profile, Choc Spaced QAZ-alike
 
 * Keyboard Maintainer: [Jason Hazel](https://github.com/jasonhazel)
-* Hardware Supported: Chaz, atmega32u4 ProMicro Compatible Controller
+* Hardware Supported: Chaz v0.3
 * Hardware Availability: [Hazel's Garage](https://shop.hazel.cc/products/chaz), [Open Source](https://github.com/hazels-garage/chaz)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make hazel/chaz/promicro:default
-    make hazel/chaz/rp2040ce:default
+    make hazel/chaz/v03:default
 
 Flashing example for this keyboard:
 
-    make hazel/chaz/promicro:default:flash
-    make hazel/chaz/rp2040ce:default:flash
+    make hazel/chaz/v03:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
